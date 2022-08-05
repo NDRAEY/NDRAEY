@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hi there 👋
 
 I'm NDRAEY (En-dra-e), but my real name is Andrey. I'm Russian programmer.
 
