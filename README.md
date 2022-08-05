@@ -1,10 +1,19 @@
-### Hi there 👋,
+### Hi there 👋
 
-I'm NDRAEY (En-dra-e), but my real name is Andrey. I'm Russian programmer.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![GitHub Views](https://komarev.com/ghpvc/?username=NDRAEY&color=FAC151)
 
-I love to make some things like operating systems, bootloaders, some low-level things.
+I'm NDRAEY (En-dra-e), and I love system programming so much!
 
-I prefer Python, C, Assembler programming languages
+I like to make some things like operating systems, bootloaders, some low-level things.
 
-- 🔭 I’m currently working on Chronicles - LLVM IR code maker
-- 🌱 I’m currently learning System programming (C, C++, Assembler, Rust)
+I prefer Python, C, C++ and Rust programming languages.
+
+Fun fact: 75% of projects I code on my smartphone. 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NDRAEY&show_icons=true)
+
+![Lucario GIF here lol](https://i.pinimg.com/originals/df/fb/1f/dffb1f2fdf8e6cc919e7cd9a473bc4e9.gif)
