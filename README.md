@@ -6,14 +6,16 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![GitHub Views](https://komarev.com/ghpvc/?username=NDRAEY&color=FAC151)
 
-I'm NDRAEY (En-dra-e), and I love system programming so much!
+I'm NDRAEY (En-dra-ey), and I love system programming so much!
 
-I like to make some things like operating systems, bootloaders, some low-level things.
+I like to make some things like operating systems, bootloaders, and some low-level things.
 
 I prefer Python, C, C++ and Rust programming languages.
 
-Fun fact: 75% of projects I code on my smartphone. 
+Fun fact: 60% of projects I code on my smartphone. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NDRAEY&show_icons=true)
+
+![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NDRAEY&theme=tokyonight)
 
 ![Lucario GIF here lol](https://i.pinimg.com/originals/df/fb/1f/dffb1f2fdf8e6cc919e7cd9a473bc4e9.gif)
